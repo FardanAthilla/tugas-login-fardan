@@ -1,3 +1,5 @@
 # login_page
 
-Halo Pak Aji.
+Nama: Fardan Athilla Haidar
+Absen: 14
+Kelas: 11 PPLG-1 
